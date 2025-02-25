@@ -2,6 +2,20 @@
 #!/bin/bash
 
 # Function to check input validity 
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+# Function to check input validity
+
 validate() {
     local num_str=$1
 
@@ -19,6 +33,7 @@ validate() {
 }
 
 # Function to sort digits using Bubble Sort
+
 sortin() {
     local num_str=$1
     local order=$2  # "asc" or "desc"
